@@ -29,4 +29,4 @@ We may update this Privacy Policy as needed. Updates will be posted on this page
 
 ## 8. Contact
 **plaisante**  
-Email: [your email]
+Email: exploreead@gmail.com
