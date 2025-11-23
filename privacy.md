@@ -1,5 +1,5 @@
 # Privacy Policy for plaisante
-**Effective Date:** [Insert date]
+**Effective Date:** Nov 20, 2025
 
 plaisante (“we,” “our,” or “us”) provides an automated tool that uploads videos to TikTok using the TikTok API. We do not operate a user-facing app, do not provide user accounts, and do not collect, store, or process personal data.
 
