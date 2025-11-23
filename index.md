@@ -1,4 +1,4 @@
 # Welcome to plaisante
 
-- [Privacy Policy](/privacy)  
-- [Terms of Service](/terms)  
+- [Privacy Policy](/plaisante-legal/privacy)  
+- [Terms of Service](/plaisante-legal/terms)  
