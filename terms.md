@@ -1,5 +1,5 @@
 # Terms of Service for plaisante
-**Effective Date:** [Insert date]
+**Effective Date:** Nov 20, 2025
 
 Welcome to plaisante. These Terms govern your use of our tool, which uploads videos to TikTok through the TikTok API (“Service”).
 
@@ -42,4 +42,4 @@ We may modify these Terms at any time. Updates will be posted on this page with 
 
 ## 9. Contact
 **plaisante**  
-Email: [your email]
+Email: exploreead@gmail.com
